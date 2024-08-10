@@ -1,17 +1,18 @@
 # Data-Manipulation-by-Pandas
 <br>
 Task 2 from Main Flow Services and Technologies
-<br>
+<br><br>
 Pandas is a powerful and versatile Python library designed for data manipulation and analysis. 
 It provides two main data structures: Series (1-dimensional) and DataFrame (2-dimensional). 
 Below are some key techniques and methods used for data manipulation with Pandas:
 <br>
-
+<br>
 <b> 1. Loading Data</b><br>
 Reading Data:
 pd.read_csv(), pd.read_excel(), pd.read_json(), and pd.read_sql() are commonly used to load data into a DataFrame. <br>
 Writing Data:
 df.to_csv(), df.to_excel(), df.to_json(), and df.to_sql() are used to export data from a DataFrame.
+<br>
 <br>
 <b> 2. Data Selection and Filtering</b>
 Viewing Data:
